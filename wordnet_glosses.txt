@@ -1,0 +1,51 @@
+shade~A quality of a given color that differs slightly from another color is called Shade.~A subtle difference in meaning or opinion or attitude is called shade.
+rule~Something regarded as a normative example is called Rule.~Prescribed guide for conduct or action is called rule.
+bow~A knot with two loops and loose ends is called Bow.~Bending the head or body or knee as a sign of reverence or submission or shame or greeting is called bow.
+break~Some abrupt occurrence that interrupts an ongoing activity is called Break.~A personal or social separation is called break.
+hit~A successful stroke in an athletic contest is called Hit.~The act of contacting one thing with another is called hit.
+crash~A sudden large decline of business or the prices of stocks is called Crash.~A loud resonant repeating noise is called crash.
+balance~Equality between the totals of the credit and debit sides of an account is called Balance.~The seventh sign of the zodiac is called balance.
+bar~A room or establishment where alcoholic drinks are served over a counter is called Bar.~Musical notation for a repeating pattern of musical beats is called bar.
+pass~A play that involves one player throwing the ball to a teammate is called Pass.~A written leave of absence is called pass.
+flat~A musical notation indicating one half step lower than the note named is called Flat.~A level tract of land is called flat.
+point~A geometric element that has position but no extension is called Point.~A spatially limited location is called point.
+bulb~electric lamp consisting of a transparent or translucent glass housing containing a wire filament that emits light when heated by electricity is called Bulb.~a rounded part of a cylindrical instrument is called bulb.
+dark~absence of light or illumination is called dark.~an unenlightened state is called dark.
+cut~a share of the profits is called cut.~a trench resembling a furrow that was made by erosion or excavation is called cut.
+bark~tough protective covering of the woody stems and roots of trees and other woody plants is called bark.~a noise resembling the bark of a dog is called bark.
+force~a powerful effect or influence is called force.~a unit that is part of some military service is called force.
+score~a number or letter indicating quality is called score.~parts for different instruments appear on separate staves on large pages is called score.
+service~an act of help or assistance is called service.~the act of public worship following prescribed rules is called service.
+blow~a powerful stroke with the fist or a weapon is called blow.~an unpleasant or disappointing surprise is called blow.
+beat~a regular route for a sentry or policeman is called beat.~the basic rhythmic unit in a piece of music is called beat.
+head~the upper part of the human body or the front part of the body in animals is called head.~the front of a military formation or procession is called head.
+model~a hypothetical description of a complex entity or process is called model.~a person who poses for a photographer or painter or sculptor is called model.
+cover~bedding that keeps a person warm in bed is called cover.~fire that makes it difficult for the enemy to fire on your own individuals or formations is called cover.
+clear~the state of being free of suspicion is called clear.~an unobstructed space or expanse of land or water is called clear.
+cabinet~a piece of furniture resembling a cupboard with doors and shelves and drawers is called cabinet.~persons appointed by a head of state to head executive departments of government and act as official advisers is called cabinet.
+toast~slices of bread that have been toasted is called toast.~a celebrity who receives much acclaim and attention is called toast.
+post~the position where someone stands or is assigned to stand is called post.~a job in an organization is called post.
+act~a legal document codifying the result of deliberations of a committee or society or legislative body is called act.~something that people do or cause to happen is called act.
+sense~a general conscious awareness is called sense.~the meaning of a word or expression is called sense.
+tap~the sound made by a gentle blow is called tap.~a faucet for drawing water from a pipe or cask is called tap.
+press~the state of demanding notice or attention is called press.~the print media responsible for gathering and publishing news in the form of newspapers or magazines is called press.
+flash~a sudden intense burst of radiant energy is called flash.~a momentary brightness is called flash.
+race~a contest of speed is called race.~people who are believed to belong to the same genetic stock is called race.
+star~a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior is called star.~an actor who plays a principal role is called star.
+deck~any of various platforms built into a vessel is called deck.~a pack of 52 playing cards is called deck.
+pipe~a long tube made of metal or plastic that is used to carry water or oil or gas etc is called pipe.~a tube with a small bowl at one end used for smoking is called pipe.
+note~a brief written record is called note.~a notation representing the pitch and duration of a musical sound is called note.
+pirate~someone who uses another person's words or ideas as if they were his own is called pirate.~someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation is called pirate.
+bat~nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate is called bat.~a small racket with a long handle used for playing squash is called bat.
+play~a dramatic work intended for performance by actors on a stage is called play.~a preset plan of action in team sports is called play.
+monitor~display produced by a device that takes signals and displays them on a television screen or a computer monitor is called monitor.~someone who supervises is called monitor.
+story~a piece of fiction that narrates a chain of related events is called story.~a structure consisting of a room or set of rooms at a single position along a vertical scale is called story.
+bank~the slope beside a body of water is called bank.~a financial institution that accepts deposits and channels the money into lending activities is called bank.
+address~the place where a person or organization can be found or communicated with is called address.~the act of delivering a formal spoken communication to an audience is called address.
+harbour~a sheltered port where ships can take on or discharge cargo is called harbour.~a place of refuge and comfort and security is called harbour.
+date~the specified day of the month is called date.~sweet edible fruit of the date-palm with a single long woody seed is called date.
+kingdom~a country with a king as head of state is called kingdom.~the highest taxonomic group into which organisms are grouped is called kingdom.
+rock~a lump or mass of hard consolidated mineral matter is called rock.~a genre of popular music originating in the 1950s is called rock.
+light~electromagnetic radiation that can produce a visual sensation is called light.~a particular perspective or aspect of a situation is called light.
+catch~a drawback or difficulty that is not readily evident is called catch.~the quantity that was caught is called catch.
+
